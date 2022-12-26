@@ -1,0 +1,10 @@
+Found device at /Volumes/CIRCUITPY, running CircuitPython 7.3.3.
+adafruit_debouncer==2.0.5
+adafruit_macropad==2.1.8
+adafruit_simple_text_display==1.2.10
+adafruit_ticks==1.0.8
+neopixel==6.3.7
+adafruit_display_text==2.22.12
+adafruit_displayio_layout==None
+adafruit_hid==5.3.3
+adafruit_midi==1.4.14
